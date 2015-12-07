@@ -20,18 +20,18 @@ PODS:
   - AFNetworking/UIKit (2.6.3):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - FPPicker (5.0.1):
+  - FPPicker (5.1.1):
     - AFNetworking (~> 2.6.0)
     - MBProgressHUD (~> 0.9)
     - PureLayout (~> 2.0.6)
   - MBProgressHUD (0.9.1)
 
 DEPENDENCIES:
-  - FPPicker (~> 5.0.0)
+  - FPPicker (~> 5.1.1)
 
 SPEC CHECKSUMS:
   AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
-  FPPicker: 74b1d8d58fa723fac30ea553eaf4964075fd6b8a
+  FPPicker: f57ee6a525d3294b053cf95391a15f9bf8ef9364
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
 
 COCOAPODS: 0.39.0

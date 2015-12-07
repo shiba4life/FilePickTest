@@ -3,5 +3,5 @@ platform :ios, '8.0'
 use_frameworks!
 
 target :'FilePickTest' do
-  pod 'FPPicker', '~> 5.0.0'
+  pod 'FPPicker', '~> 5.1.1'
 end
