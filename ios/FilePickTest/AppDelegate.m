@@ -11,6 +11,8 @@
 
 #import "RCTRootView.h"
 
+@import FPPicker;
+
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
@@ -54,4 +56,8 @@
   return YES;
 }
 
++ (void)initialize
+{
+  [FPConfig sharedInstance].APIKey = @"AEqf74BETRAuJWYy1U4hqz";
+}
 @end
